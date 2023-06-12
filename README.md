@@ -12,6 +12,7 @@ This project provides the user with the ability to store an IPFS Hash and store 
 ```bash
 $ cd IPFS-CloudStorage-Descentralized
 $ npm install --save-dev hardhat
+$ npm install --save-dev @nomicfoundation/hardhat-toolbox
 ```
 ## 3. Change variables in Files
 ```bash
